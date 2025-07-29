@@ -70,12 +70,7 @@ button:hover {
     padding: 35px;
     border-radius: 10px;
     background-color: #e8f5e9;
-    /* Added inline styles for PDF consistency */
-    font-family: 'Segoe UI',
-    Tahoma,
-    Geneva,
-    Verdana,
-    sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #333;
     position: relative;
 }
@@ -86,22 +81,12 @@ button:hover {
     font-size: 17px;
     color: #444;
     text-align: left;
-    /* Added inline styles for PDF consistency */
-    font-family: 'Segoe UI',
-    Tahoma,
-    Geneva,
-    Verdana,
-    sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 #resume-content strong {
     font-weight: bold;
-    /* Added inline styles for PDF consistency */
-    font-family: 'Segoe UI',
-    Tahoma,
-    Geneva,
-    Verdana,
-    sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 #profile-preview {
@@ -112,12 +97,7 @@ button:hover {
     width: 120px;
     height: 120px;
     object-fit: cover;
-    /* Added inline styles for PDF consistency */
-    font-family: 'Segoe UI',
-    Tahoma,
-    Geneva,
-    Verdana,
-    sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .profile-picture-section input[type="file"] {
